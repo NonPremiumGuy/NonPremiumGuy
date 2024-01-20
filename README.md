@@ -17,4 +17,4 @@ Besides my core skills, I'm Also a Front-End Enthusiast, Wielding The Power of H
 ### **Connect**
 - [**LinkedIn**](#)
 - [**Instagram**](#)
-Thanks For Visiting My Profile!
+### **Thanks For Visiting My Profile!**
