@@ -4,7 +4,7 @@ I'm a Passionate Technologist and Coder With a Strong Foundation in **C++**, Dat
 I Thrive in Challenging and Innovative Tech Environments.
 Besides my core skills, I'm Also a Front-End Enthusiast, Wielding The Power of HTML, CSS, and pure JavaScript to bring ideas to life.
 ### Project
-1. [Mini Neural Network Library](#)
+1. [Mini Neural Network Library](https://github.com/NonPremiumGuy/Tensor-Mini)
 2. [Sudoku](#)
 2. [Tic-Tac-Toe](#)
 ### Portfolio
